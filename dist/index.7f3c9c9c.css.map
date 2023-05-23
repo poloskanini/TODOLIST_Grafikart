@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["WebProjects/toDoListJS/style.scss"],"sourcesContent":["*,\n::before,\n::after {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n"],"names":[],"version":3,"file":"index.7f3c9c9c.css.map","sourceRoot":"/__parcel_source_root/"}
